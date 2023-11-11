@@ -1,6 +1,6 @@
 
 <div>
-  <a href="https://github.com/August1312"><h1  style=color: blue> Olá! Eu sou Danilo Silva :)</h1></a>
+  <a href="https://github.com/August1312"><h1 style="color: red;">Olá! Eu sou Danilo Silva :)</h1></a>
 <p style='font-style: italic; color: green;'>Sou um estudante dedicado de Analise e Desenvolvimento de Sistemas com um forte interesse em me tornar um desenvolvedor front-end.<br>
   Com uma paixão pela criação de interfaces de usuário atraentes e funcionais, <br>
 estou empenhado em aprimorar minhas habilidades de programação e design web para criar experiências de usuário excepcionais.</p> <br>
