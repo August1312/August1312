@@ -1,5 +1,5 @@
-<head>
-    <style>
+
+<style>
         /* Estilos para a lista de ícones */
         .icon-list {
             list-style: none;
@@ -11,7 +11,7 @@
             font-size: 24px;
             margin-right: 10px;
         }
-    </style>
+</style>
 </head>
 <body>
     <ul class="icon-list">
