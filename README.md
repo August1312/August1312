@@ -1,4 +1,28 @@
+<head>
+    <style>
+        /* Estilos para a lista de ícones */
+        .icon-list {
+            list-style: none;
+            padding: 0;
+        }
 
+        /* Estilos para os ícones */
+        .icon {
+            font-size: 24px;
+            margin-right: 10px;
+        }
+    </style>
+</head>
+<body>
+    <ul class="icon-list">
+        <li><span class="icon">&#11088;</span> Estrela</li>
+        <li><span class="icon">&#127775;</span> Fogos</li>
+        <li><span class="icon">&#128161;</span> Lâmpada</li>
+        <li><span class="icon">&#127752;</span> Arco-íris</li>
+        <li><span class="icon">&#127881;</span> Confetes</li>
+        <li><span class="icon">&#127799;</span> Flor</li>
+        <li><span class="icon">&#128640;</span> Foguete</li>
+    </ul>
 <div>
   <a href="https://github.com/August1312"><h1>Olá! Eu sou Danilo Silva :)</h1></a>
 <p style='font-style: italic; color: green;'>Sou um estudante dedicado de Analise e Desenvolvimento de Sistemas com um forte interesse em me tornar um desenvolvedor front-end.<br>
