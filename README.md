@@ -1,4 +1,24 @@
 
+
+
+<div style="border: solid; border-radius: 10px;">
+    🍀 Social Media:
+
+  <hr>
+
+ <ul> 
+    <li> <a ><img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" align=center style width="30" height="30" title="Discord"></a></li>
+    <li><a><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" align=center width="30" height="30" title="Twitter"></a></li>
+    <li><a><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" align=center width="30" height="30" title="Email"></a></li>
+    <li><a><img src="https://cdn-icons-png.flaticon.com/512/2111/2111589.png" align=center width="30" height="30" title="Reddit"></a></li>
+    <li><a><img src="https://cdn-icons-png.flaticon.com/512/145/145808.png" align=center width="30" height="30" title="Pinterest"></a></li>
+
+ </ul>
+
+</div>
+
+
+
 <div>
   <a href="https://github.com/August1312"><h1>Olá! Eu sou Danilo Silva :)</h1></a>
 <p style='font-style: italic; color: green;'>Sou um estudante dedicado de Analise e Desenvolvimento de Sistemas com um forte interesse em me tornar um desenvolvedor front-end.<br>
