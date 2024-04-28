@@ -4,7 +4,7 @@
 
 - 🤔 Desenvolvedor de Back-End explorando e aplicando novas tecnologias para criar soluções de software inovadoras.
 - 🎓 Estudando **Analista de Desenvolvimento de Sistemas** no <a href="https://www.anhanguera.com" target="_blank">Anhanguera</a>.
-- 💼 Trabalhando como **Analista de Suporte** na <a>SD Informatica</a>
+- 💼 Trabalhando como **Analista de Suporte**
 - 🌱 &nbsp; Aprendendo mais sobre **Python, Java, Flask, JavaScript e Django**.
 <hr>
 <div style="display: inline">
